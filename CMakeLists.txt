@@ -4,7 +4,7 @@ project(cube20)
 set(CMAKE_CXX_STANDARD 14)
 
 add_library(
-        cube20
+        cube20 SHARED
         cubepos.h
         cubepos.cpp
         kocsymm.h
