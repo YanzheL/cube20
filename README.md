@@ -40,7 +40,7 @@ make
 
 ## Author
 
-* **Tomas Rokicki** - *Initial work* - [Cube20 Source](https://www.cube20.org/src)
+* **[Tomas Rokicki](https://github.com/rokicki)** - *Initial work* - [Cube20 Source](https://github.com/rokicki/cube20src)
 
 ## Acknowledgments
 
